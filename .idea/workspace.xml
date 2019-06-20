@@ -157,6 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -186,12 +187,12 @@
       <updated>1560879926418</updated>
       <workItem from="1560879928423" duration="2179000" />
       <workItem from="1561046877793" duration="283000" />
-      <workItem from="1561047166649" duration="2916000" />
+      <workItem from="1561047166649" duration="3515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5378000" />
+    <option name="totallyTimeSpent" value="5977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
